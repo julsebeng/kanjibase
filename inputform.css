@@ -1,0 +1,41 @@
+@charset "UTF=8";
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+#Console {
+	float: center;
+}
+
+#form {
+	width: 100%;
+	float: center;
+}
+
+#KanjiInsert {
+	float: left;
+	margin: 10px 20px;
+	padding: 5px;
+	border: solid #000 1px;
+}
+
+#RadicalInsert {
+	float: left;
+	margin: 10px 20px;
+	padding: 5px;
+	border: solid #000 1px;
+}
+
+#VocabInsert {
+	float: left;
+	margin: 10px 20px;
+	padding: 5px;
+	border: solid #000 1px;
+}
+
+#submit {
+	float: left;
+	margin-top: 100px;
+}
